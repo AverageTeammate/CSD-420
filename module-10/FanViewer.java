@@ -5,11 +5,7 @@
  * 5/3/2025
  *
  * This program allows the user to display and update fan information
- * stored in a MySQL database using a graphical user interface (GUI).
- * The database is called 'databasedb' and includes a table named 'fans'
- * with fields for ID, First Name, Last Name, and Favorite Team.
- * 
- * The application uses JDBC for database connectivity and Swing for the GUI.
+ * stored in a MySQL database.
  */
 
 import javax.swing.*;
